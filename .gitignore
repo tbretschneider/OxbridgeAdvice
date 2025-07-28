@@ -1,0 +1,43 @@
+# Keep only LaTeX source files
+*.pdf
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.brf
+*.nav
+*.snm
+*.vrb
+*.xdv
+*.run.xml
+*.bcf
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+*.ilg
+*.ind
+*.idx
+
+# Editor and OS junk
+*~
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Build and output folders
+build/
+output/
+_out/
+
